@@ -2,6 +2,7 @@
 | |ingv_logo_text_two_lines|    |
 +-------------------------------+
 
+
 ###################################################################
 Open Access policy to the contributions of INGV scientific research
 ###################################################################
@@ -10,8 +11,6 @@ Open Access policy to the contributions of INGV scientific research
    Open Access policy to the contributions of INGV scientific research
 
 .. toctree::
-  :numbered:
-  :hidden:
 
   doc/introduction.rst
   doc/art.-1---definitions.rst
@@ -21,5 +20,6 @@ Open Access policy to the contributions of INGV scientific research
   doc/art.-5---publication-of-open-access-contributions-gold-road-model.rst
   doc/art.-6---monitoring-of-the-implementation-of-the-policy.rst
   doc/art.-7---final-provisions.rst
+
 
 .. |ingv_logo_text_two_lines| image:: images/ingv_logo_text_two_lines.png
